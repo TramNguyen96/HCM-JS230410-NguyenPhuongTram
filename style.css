@@ -17,11 +17,10 @@ body{
 #header p{
     background-color:rgba(244, 204, 104,0.7);
     width:450px ;
-    height: 90px;
-    font-size: 23px;
+    height: 120px;
+    font-size: 35px;
     position: absolute;
     margin-top: 210px;
-    line-height: 1.5;
     padding: 10px;
 }
 #container{
